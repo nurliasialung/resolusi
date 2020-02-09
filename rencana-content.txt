@@ -2,5 +2,8 @@ Rencana Konten Resolusi
 
 - Website Data Inventaris
 > PHP
+  * Laravel
+  * Full PHP
 - Website Wisata Kuliner
 - Struktur data dasar
+- Python
