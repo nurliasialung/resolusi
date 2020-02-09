@@ -2,5 +2,7 @@ Rencana Konten Resolusi
 
 - Website Data Inventaris
 > PHP
+  * Laravael
 - Website Wisata Kuliner
 - Struktur data dasar
+- Python
