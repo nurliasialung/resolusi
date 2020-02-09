@@ -3,3 +3,4 @@ Rencana Konten Resolusi
 - Website Data Inventaris
 > PHP
 - Website Wisata Kuliner
+- Struktur data dasar
